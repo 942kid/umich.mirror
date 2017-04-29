@@ -1,0 +1,32 @@
+* { margin:0 auto; padding:0px;}
+/*body {*/
+/*    background-image:    url(../files/miao.png);*/
+/*    background-size:     contain;                      */
+/*    background-repeat:   no-repeat;*/
+/*    background-position: center center;         */
+/*}*/
+a {
+    text-decoration: none;
+}
+a:link, a:visited {
+    color: #00274c;
+}
+a:hover {
+    color: #4c7700;
+}
+ul{
+    list-style-position: outside;
+    margin-left: 10px;
+    overflow: visible;
+}
+li{
+	margin: 10px;
+	padding: 5px;
+}
+h{
+	margin-bottom: 20px;
+}
+p{
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
